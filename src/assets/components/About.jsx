@@ -3,7 +3,7 @@ import { FaFacebook, FaInstagram, FaTwitter } from "react-icons/fa";
 
 const About = () => {
   return (
-    <section id="about" className="py-28 bg-[#faf4f5]">
+    <section id="about" className="py-28 bg-[#faf4f5] h-screen">
       <div className="flex flex-col lg:flex-row items-center justify-between gap-12 max-w-[1300px] mx-auto">
         {/* About Image */}
         <div className="flex-shrink-0 py-3 mx-14">
